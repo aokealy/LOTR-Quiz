@@ -22,4 +22,14 @@ body {
     box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
     min-height: 350px;
     padding: 80px 90px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.leftSide, .rightSide {
+   width: 50%;
+}
+.leftSide img {
+    height: 300px;
+    width: 300px;
 }
