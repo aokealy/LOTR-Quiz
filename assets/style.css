@@ -33,3 +33,10 @@ body {
     height: 300px;
     width: 300px;
 }
+.rightSide h1 {
+    color: #d4af37;
+}
+.rightSide h2 {
+    color: #FF7700;
+    margin: 20px auto 10px;
+}
