@@ -10,4 +10,11 @@ body {
     font-family: 'Lato', sans-serif;
     background-image: url('/assets/images/background.jpg');
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 940px;
 }
