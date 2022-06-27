@@ -67,5 +67,11 @@ body {
 
 }
 /* Question Page CSS starts */
-
+.box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
+    min-height: 350px;
+    width: 640px;
+}
 /* Question Page CSS end */
