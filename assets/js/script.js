@@ -7,6 +7,7 @@ let questions = quiz.sort(function(){
     return 0.5 - Math.random();
 });
 
+let totalQuestion = questions.length;
 
 $(function () {
 
@@ -80,7 +81,7 @@ function printQuestion(i) {
 function showNext(){
    
     if(index >= (questions.length - 1)){
-        showResult();
+        showResult(0);
         return;
     }
 
@@ -93,3 +94,28 @@ function showNext(){
 }
 
 // function for the next question button end
+
+
+//function for result start
+
+  function showResult(j){
+    if (
+        j == 1 && //variable is used to check whether the show result button is clicked or not
+        index < questions.length -1 && // condition to check if quiz if finished or not
+        !confirm("The Quiz has not finished! You can skip quiz and get final result.")
+     ) {
+              return;
+    }
+
+
+    $("#questionScreen").hide();
+    $("#resultScreen").show();
+
+    $("#totalQuestion").text(totalQuestion);
+    $("#attemptQuestion").text(attempt);
+    $("#correctAnswers").text(score);
+    $("#wrongAnswers").text(wrong);
+  }
+
+//function for result end
+
