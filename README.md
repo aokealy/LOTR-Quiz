@@ -89,23 +89,17 @@ quiz.  </p>
       ## Home Page
       - In this section I tested the code using <a href="https://validator.w3.org/nu/#textarea">WC3 Validator HTML</a>
        <img src="./assets/images/html-validator.jpg" alt="home page validator">
-      ## Timeline Page
-      <img src="./images/timeline-validator-img.jpg" alt="timeline validator">
-      
-      ## Gallery Page
-      <img src="./images/gallery-validator-img.jpg" alt="gallery validator">
      
       - Also I tested the code using <a href="https://jigsaw.w3.org/css-validator/">WC3 Validator CSS</a>
          
-         <img src="./images/css-validator-READme-img.jpg" alt="CSS Validator">
+         <img src="./assets/images/css-validator.jpg" alt="CSS Validator">
+        <img src="./assets/images/quiz-js-jshint.jpg" alt="jshint validator">
+    ## Responsive
+    - as you can see it scales down when viewing in a different size to keep it's shape so it stays uninterrpted.
+          <img src="./assets/images/resize-quiz.jpg" alt="Quiz size change">
 
-         - In the HTML part you can see I have a warning about not having a heading in the section footer but it does not effect the code but only a warning.
-         ## Responsive
-         - as you can see it scales down when viewing in a different size to keep it's shape so it stays uninterrpted.
-          <img src="./images/responsive-READme-img.jpg" alt="Timeline size change">
-
-          - As we get into mobile mode inside the gallery it changes it shape by going off one image so the images are still visable to see. 
-          <img src="./images/gallery-READme-img (2).jpg" alt="Gallery mobile size">
+        - As we get into mobile mode inside the gallery it changes it shape by going off one image so the images are still visable to see. 
+          
 
           - I used Google Developer tool to test the responsiveness of the website.
           ## Lighthouse Test
@@ -126,25 +120,27 @@ quiz.  </p>
 
 
           # Unfixed Bugs
-          - The sign up button in the index page is not responsive and could not fix it to scale down when going into different screen sizes.
+          - I was getting an error called Uncaught TypeError: Cannot read properties of null (reading 'parent')
           - after multiple attemps of trying to fix it I couldn't change the bug.
+          - another bug was Failed to load resource the server responded with a status of 404 (Not Found)
+          - This is where a path for jquery was not working and I think I fixed but is common when writing code.
 
-          <img src="./images/bug-READme-img.jpg" alt="button bug" width="50%">
+          
 
           # Deployment 
           - This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
           - The site was deployed to GitHub pages. The steps to deploy are as follows:
           - In the GitHub repository, navigate to the Settings tab
-          <img src="./images/setting-img.jpg" alt="settings picture">
+          <img src ="./assets/images/main-repository.jpg">
           - From the source section drop-down menu, select the Main Branch
           - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-          <img src="./images/main-img.jpg" alt ="main branch to deploy site from page">
+          
          - The live link to the Github repository can be found here: https://github.com/aokealy/Roger-federer
          # To fork the repository on GitHub
         - A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
         - Log in to GitHub and locate the repository.
         - On the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to   create a copy of the original repository in your GitHub Account.
-        <img src="./images/fork-img.jpg " alt="fork image">
+        <img src=".assets/images/fork.jpg" alt="fork image">
         
         # To create a local clone of this project
         - Under the repository’s name, click on the code tab.
