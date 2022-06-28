@@ -3,7 +3,7 @@ Lord Of The Rings Quiz is where you can test your knowledge to see how good you 
 <br>
 This Quiz is for the Lord Of The Rings fans who want to test their knowledge overall.
 <br>
-This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger Federer</a>
+This is the Website of <a href=" https://aokealy.github.io/LOTR-Quiz/">Lord Of The Rings Quiz</a>
 
 ![alt text](/assets/images/chrome_97RvpcgHb3.jpg)
 
@@ -131,7 +131,7 @@ quiz.  </p>
           - This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
           - The site was deployed to GitHub pages. The steps to deploy are as follows:
           - In the GitHub repository, navigate to the Settings tab
-          <img src ="./assets/images/main-repository.jpg">
+          <img src ="./assets/images/main-repository.jpg" alt="main repository">
           - From the source section drop-down menu, select the Main Branch
           - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
           
@@ -140,7 +140,8 @@ quiz.  </p>
         - A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
         - Log in to GitHub and locate the repository.
         - On the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to   create a copy of the original repository in your GitHub Account.
-        <img src=".assets/images/fork.jpg" alt="fork image">
+         <img src="./assets/images/fork.jpg">
+         
         
         # To create a local clone of this project
         - Under the repository’s name, click on the code tab.
@@ -149,46 +150,21 @@ quiz.  </p>
         - Change the current working directory to the location where you want the cloned directory to be made.
         - Type git clone, and then paste the URL copied from GitHub.
         - Press enter and the local clone will be created.
-        <img src="./images/clone-img.jpg" alt="Clone project">
+         <img src="./assets/images/clone.jpg" >
        
         # Credits
         ## Contents
-        - Website layout from <a href="https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=LL&index=7">Youtube video</a>
-        - Sign Up page from <a href="https://www.youtube.com/watch?v=3vVUXnhSc7w&list=LL&index=3&t=615s">Youtube video</a>
-        - Gallery page from <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&list=LL&index=5">Youtube video</a>
-        - Footer page from <a href="https://www.youtube.com/watch?v=2-5LpaN2LF8&list=LL&index=6">Youtube video</a>
+        - Quiz layout from <a href="https://www.youtube.com/watch?v=Z-HLdIYHjRM">Youtube video</a>
+        - Quiz Javascript <a href="https://www.youtube.com/watch?v=Tf9hr4tmhK4">Youtube video</a>
+        
         ## Media
         ### Gallery
-        - This image was used from <a href="https://tennishead.net/the-ultimate-guide-to-roger-federers-20-grand-slam-titles/">Federer Wimbledon 2003</a>
-        - This image was used from <a href="https://www.gettyimages.es/detail/fotograf%C3%ADa-de-noticias/roger-federer-of-switzerland-holds-up-the-fotograf%C3%ADa-de-noticias/490628616?adppopup=true/">Federer Ao 2004</a>
-        - This image was used from <a href="https://sportige.com/roger-federer-gallery/wimbledon-2004_diaporama/">Federer Wimbledon 2004</a>
-        - This image was used from <a href="https://www.usopen.org/en_US/news/articles/2019-03-02/roger_federers_100_titles_remembering_his_us_open_title_runs.html/">Federer Us Open 2004</a>
-        - This image was used from <a href="https://ciriondo.com/ants.php?iid=146178287-wimbledon+2005+winner&cid=37/">Federer Wimbledon 2005</a>
-        - This image was used from <a href="http://en.people.cn/200509/12/eng20050912_208068.html/">Federer Us Open 2005</a>
-        - This image was used from <a href="https://firstsportz.com/roger-federer-turns-39-a-look-back-at-his-20-grand-slam-triumphs/">Federer Ao 2006</a>
-        - This image was used from <a href="https://www.vavel.com/en-us/tennis-usa/2015/12/28/583678-greatest-seasons-roger-federer-2006.html/">Federer Wimbledon 2006</a>
-        - This image was used from <a href="https://www.tennisworldusa.org/tennis/news/ATP_Tennis/59560/us-open-2006-roger-federer-tops-roddick-to-extend-reign-in-new-york/">Federer Us Open 2006</a>
-        - This image was used from <a href="https://mobile.twitter.com/Sporf/status/825679545529487360/photo/1/">Federer Ao 2007</a>
-        - This image was used from <a href="https://www.businessinsider.com/the-one-biggest-style-mistake-roger-federer-has-ever-made-2018-5?r=US&IR=T/">Federer Wimbledon 2007</a>
-        - This image was used from <a href="https://www.tennis365.com/atp-tour/roger-federer-us-open-2/">Federer Us Open 2007</a>
-        - This image was used from <a href="https://www.usopen.org/en_US/news/articles/2017-09-06/once_again_federer_vs_nadal_not_to_be_at_the_us_open.html/">Federer Us Open 2008</a>
-        - This image was used from <a href="https://www.tennis365.com/t365-recall/t365-recall-how-roger-federer-magically-won-the-2009-french-open-title/">Federer French Open 2009</a>
-        - This image was used from <a href="https://www.tennisworldusa.org/tennis/news/Roger_Federer/66793/2009-wimbledon-could-have-marked-the-end-of-my-career-says-roger-federer/">Federer Wimbledon 2009</a>
-        - This image was used from <a href="https://www.rogerfederer.com/index.php/history/">Federer Ao 2010</a>
-        - This image was used from <a href="https://www.dailymail.co.uk/sport/tennis/article-2170556/Wimbledon-2012-Roger-Federer-beats-Andy-Murray-final.html/">Federer Wimbledon 2012</a>
-        - This image was used from <a href="https://www.nytimes.com/2017/01/29/sports/tennis/roger-federer-rafael-nadal-australian-open.html/">Federer Ao 2017</a>
-         - This image was used from <a href="https://www.skysports.com/tennis/news/12110/11966246/roger-federer-and-serena-williams-does-wimbledon-cancellation-have-knock-on-effect-for-legends/">Federer Wimbledon 2017</a>
-        - This image was used from <a href="https://lovesetmatch.net/blog/congratulations-roger-federer-on-your-20th-grand-slam-title/">Federer Ao 2018</a>
-        ## Other Images
-        - This image was used for Timeline <a href="https://www.pinterest.ie/pin/577234877214292637/?mt=login/">Federer Child</a>
-        - This image was used for Timeline <a href="https://tennis-buzz.com/roger-federer-2011-french-open-nike-kit/">Federer French Open 2011</a>
-        - This image was used for Timeline <a href="https://www.si.com/tennis/2012/07/08/08-1roger-federers-grand-slam-titles#gid=ci02558dd9f0002781&pid=2007-us-open/">Federer 2007 Wimbledon</a>
-        - This image was used for Timeline <a href="https://hkbuy1s.tk/ProductDetail.aspx?iid=107246226&pr=52.88/">Federer Ao 2017</a>
-        - This image was used for Home Page <a href="https://www.pintarmewarnai.com/png/roger-federer-png-transparent-images/">Federer Transparent</a>
-        - This image was used for all pages <a href="https://www.cleanpng.com/png-2003-wimbledon-championships-logo-grand-slam-tenni-1099646/">Federer logo</a>
+        - This image was used from <a href="https://www.subpng.com/png-xakzr6/download.html">Sauron Eye Logo</a>
+        - This image was used from <a href="https://www.wallpaperflare.com/lord-of-the-rings-mordor-mount-doom-eye-of-sauron-wallpaper-bljap/download/1920x1080">mounth doom wallpaper</a>
+        
 
         # Acknowledgements
-        - This website is for Project Portfolio one for Code Institue and UCD Academy.
+        - This quiz is for Project Portfolio two for Code Institue and UCD Academy.
         -  For the Full Stack Software Developer (e-Commerce) Diploma
         
          
