@@ -108,10 +108,10 @@ quiz.  </p>
           # Browser Test
 
           ## Mozilla
-          <img src="./images/firefox-browser-img.jpg" alt="Firefox Browser Test">
+          <img src="./assets/images/firefox.jpg" alt="Firefox Browser Test">
 
           ## Microsoft Edge
-          <img src="./images/microsoft-browser-img.jpg" alt="Microsoft Edge Browser Test">
+          <img src="./assets/images/microsoft-edge.jpg" alt="Microsoft Edge Browser Test">
           - These are the browser test and I can comfirm they work on Chrome, Firefox and Microsoft Edge.
 
          
@@ -135,7 +135,7 @@ quiz.  </p>
           - From the source section drop-down menu, select the Main Branch
           - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
           
-         - The live link to the Github repository can be found here: https://github.com/aokealy/Roger-federer
+         - The live link to the Github repository can be found here: https://github.com/aokealy/LOTR-Quiz
          # To fork the repository on GitHub
         - A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
         - Log in to GitHub and locate the repository.
