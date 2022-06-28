@@ -122,5 +122,20 @@ body {
 
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer button {
+       background-color: #d4af37;
+       border-radius: 5px;
+       padding: 7px 15px;
+       color: #fff;
+       border: 0;
+       outline: none;
+       font-size: 20px;
+}
+
 
 /* Question Page CSS end */
