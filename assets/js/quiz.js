@@ -20,7 +20,7 @@ let quiz = [
         answer: 3,
     },
     {
-        question: "Who race is Frodo Baggins?",
+        question: "What race is Frodo Baggins?",
         option: [
             "Elve",
             "Dwarve",

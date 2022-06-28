@@ -26,7 +26,10 @@ $(function () {
         
        if(counter == totalTime){
 
+        alert("Time's up. Press ok to show results!");
+        result();
          clearInterval(timer);
+        
        }
         
        // console.log("min =" + min);
@@ -106,8 +109,15 @@ function showNext(){
      ) {
               return;
     }
+     result();
+  }
+
+//function for result end
 
 
+//result function start
+
+function result() {
     $("#questionScreen").hide();
     $("#resultScreen").show();
 
@@ -115,7 +125,7 @@ function showNext(){
     $("#attemptQuestion").text(attempt);
     $("#correctAnswers").text(score);
     $("#wrongAnswers").text(wrong);
-  }
 
-//function for result end
+}
 
+//result function end
