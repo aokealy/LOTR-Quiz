@@ -1,4 +1,5 @@
 let index = 0;
+let attempt = 0;
 let questions = quiz.sort(function(){
     return 0.5 - Math.random();
 });
@@ -47,3 +48,12 @@ function printQuestion(i) {
 
 }
 // Function to print question end
+
+// function to check answer start
+ function checkAnswer(option) {
+    attempt++;
+    Let optionClicked = $(option).data("opt");
+
+ }
+// function to check answer end
+
