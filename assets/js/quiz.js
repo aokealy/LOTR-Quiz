@@ -31,40 +31,45 @@ let quiz = [
     },
     {
         question:
-            "What is the correct format for aligning written content to the center of the page in CSS?",
+            "How many Urikai marched to Helm's Deep in the Two Towers?",
         option: [
-            "Text-align:center;",
-            "Font-align:center;",
-            "Text:align-center;",
-            "Font:align-center;",
+            "10000",
+            "7000",
+            "20000",
+            "15000",
         ],
         answer: 1,
     },
     {
         question:
-            "What is the correct format for changing the background colour of a div in CSS?",
+            "Who was Frodo's best friend?",
         option: [
-            "Bg-color:red;",
-            "bg:red;",
-            "Background-colour:red;",
-            "Background-color:red;",
+            "Merry",
+            "Pippin",
+            "Gandalf",
+            "Sam",
         ],
         answer: 4,
     },
     {
-        question: "Choose the correct HTML tag for the largest heading",
-        option: ["<heading>", "<h6>", "<head>", "<h1>"],
-        answer: 4,
+        question: "How many Oscars did the Trilogy win?",
+        option: [
+            "10",
+            "17",
+            "12",
+            "20",
+        ],
+        answer: 2,
     },
     {
-        question: "Which is the correct CSS syntax?",
+        question: "Who created the One Ring of Power?",
         option: [
-            "Body {color: black}",
-            "{body;color:black}",
-            "{body:color=black(body}",
-            "body:color=black",
+            "Aragorn",
+            "Galadriel",
+            "Theoden",
+            "Sauron",
         ],
-        answer: 1,
+        answer: 4,
     },
     {
         question:
