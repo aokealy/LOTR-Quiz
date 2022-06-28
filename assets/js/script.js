@@ -69,6 +69,27 @@ function printQuestion(i) {
 
     $(".scoreBox span").text(score);
 
+    $(".optionBox span").attr("onClick","");
+
  }
 // function to check answer end
 
+// function for the next question button start
+
+
+function showNext(){
+   
+    if(index >= (questions.length - 1)){
+        showResult();
+        return;
+    }
+
+    index++;
+    $(".optionBox span").removeClass();
+
+    $(".optionBox span").attr("onclick","checkAnswer(this)");
+ 
+    printQuestion(index);
+}
+
+// function for the next question button end
