@@ -171,4 +171,21 @@ body {
 }
 /* Question Page CSS end */
 
-/* Media Queries */
+/* Media Queries start */
+@media screen and (max-width: 768px){
+    .leftSide{
+        display: none;
+    }
+    .container, .box{
+        width: 425px;
+    }
+    .rightSide{
+        width: 100%;
+    }
+    .optionBox{
+        grid-template-columns: 1fr;
+    }
+}
+
+
+/* Media Queries end */
