@@ -1,5 +1,8 @@
 let index = 0;
 let attempt = 0;
+let score = 0;
+let wrong = 0;
+
 let questions = quiz.sort(function(){
     return 0.5 - Math.random();
 });
@@ -52,7 +55,17 @@ function printQuestion(i) {
 // function to check answer start
  function checkAnswer(option) {
     attempt++;
-    Let optionClicked = $(option).data("opt");
+    let optionClicked = $(option).data("opt");
+
+    console.log(questions[index]);
+    if(optionClicked == questions[index].answer){
+        $(option).addClass("right");
+        score++;
+    }
+    else {
+        $(option).addClass("wrong");
+        wrong++;
+    }
 
  }
 // function to check answer end
