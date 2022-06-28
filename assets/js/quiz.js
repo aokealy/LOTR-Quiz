@@ -10,7 +10,7 @@ let quiz = [
         answer: 1,
     },
     {
-        question: "When was the Fellowship of the released?",
+        question: "When was the Fellowship of the Ring released?",
         option: [
             "2004",
             "2005",
