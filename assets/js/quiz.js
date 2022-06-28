@@ -73,18 +73,33 @@ let quiz = [
     },
     {
         question:
-            "In CSS, what is the correct option to select all the tags on a page?",
-        option: ["<p> { }", ".p { }", "#p { }", "* { }"],
-        answer: 4,
+            "How many formed the Fellowship in the first movie?",
+            option: [
+                "9",
+                "5",
+                "7",
+                "8",
+            ],
+        answer: 1,
     },
     {
-        question: "Select the correct HTML tag to make a text italic?",
-        option: ["Italic", "II", "IT", "I"],
-        answer: 4,
-    },
-    {
-        question: "Select the correct HTML tag to make a text bold.",
-        option: ["bo", "bb", "b", "bold"],
+        question: "What is the name of Sauron's tower?",
+        option: [
+            "Orthanc",
+            "Weathertop",
+            "Bara-Dur",
+            "The Prancy Pony",
+        ],
         answer: 3,
+    },
+    {
+        question: "Where do hobbits live?",
+        option: [
+            "The Shire",
+            "Mirkwood",
+            "Rivendall",
+            "Moria",
+        ],
+        answer: 1,
     },
 ];
