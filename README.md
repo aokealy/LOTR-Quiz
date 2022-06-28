@@ -50,33 +50,21 @@ quiz.  </p>
 
 
  - __Home Page Image__
-     - The main image when you view the home page for the first time is an animated picture of Federer to give you an eye catching moment of when the animation starts. 
-     - It also blends in nicely with the background of the website with a shadow effect.
-    <img src="./images/home-page-readme-img.jpg" alt="Sign up button" width="80%" height="15%">                                     
+     - The main image when you view the home page is the eye of Sauron which is an iconic character in the movies.
+     - It also blends in nicely with the background image linking to wear he comes from.
+    <img src="./assets/images/eye.jpg" alt="Eye Of Sauron" width="50%" height="10%">                                     
 
      - __Home Page Content__
-         - Inside the home page we have a brief introduction about the history of Roger Federer and give an idea of what this page is about.
+         - Inside you have a set of Instruction on how to play the game overall.
 
-        - __Sign Up Button__
+         __Quiz Page__
+         - The quiz page has a random question asked highlighted to see clearly.
+         - Score tracker at the top left to keep track.
+         - Timer to let you know how much time you have left in the quiz.
+         - Next button in the bottom left to go to next question.
+         - Show results button to show how many right and how many wrong questions.
 
-        - Underneath the content we have a sign up button where you can enter your name and email to join the Federer community. 
-        - The colour on the button should be pleasing for the user to want to click on it as it pops more than the text above it.
-        - When you click on it a form will appear in red to match the concept of the other colours. 
-        <img src="./images/sign-up-readme-img.jpg" alt="Sign up button" width="60%" height="15%">
-
-        - __The Footer__
-        - The footer has three links that are all relevant to Roger Federer as the link to each of his social medias including Facebook, Twitter and Instagram.
-        - When hovering over each social media link it will light up to indicate that you are hovering over it with your mouse which gives a good indication where your mouse is currently at.
-        - When you click on the social media Icons it will open a new tab so you don't lose access to the website.
-         <img src="./images/footer-READme-img.jpg" alt="Footer" width="60%" height="15%">
-
-         __Timeline Page__
-         - The Timeline page is there to give the user information about the History of Federer's career from his young days to where he is currently at.
-         - There are suporting images during the timeline to give an idea of what he looked like during those periods.
-         - These are facts about his career and are layed out for the user to read it easily and to follow along as you scroll through the page.
-         - There is an animation effect that continues from the home page to keep the flow of the page going.
-
-         <img src="./images/timeline-READme-img.jpg" alt="Footer" width="60%" height="15%">
+         <img src="./assets/images/main.jpg" alt="Question page" width="30%" height="15%">
 
          __Gallery__
          - The Gallery Page showcases Federer's biggest achievement which are the Grand Slams.
