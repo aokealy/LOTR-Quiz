@@ -66,29 +66,29 @@ quiz.  </p>
 
          <img src="./assets/images/main.jpg" alt="Question page" width="30%" height="15%">
 
-         __Gallery__
-         - The Gallery Page showcases Federer's biggest achievement which are the Grand Slams.
-         - There are 20 images in total and they are ordered from top to bottom to showcase each Grand Slam he won.
-         - This gallery is great for people who want to see how sucessful he is and it is responsive and uniformed to fit the page.
-          <img src="./images/gallery-READme-img.jpg" alt="Footer" width="60%" height="15%">
+         __Timeout__
+         - When timer goes down to zero an alert will show up to say the quiz has ended.
+         - User will be shown score afterwards.
+         - User can then chose to play the game again if they wish.
+          <img src="./assets/images/timeout.jpg" alt="timeout">
 
 
         # Future Features
-        - A community Page where Federer fans can discuss about tennis or Federer.
-        - A video section that links to tributes of Federer career.
+        - A username to add tp keep track of past scores.
+        - A animation of a trophy if you get all correct answers.
 
         # Technology used:
         - <a href="https://html.spec.whatwg.org/"> HTML5 for HTML </a>
         - <a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS for styling </a>
         - <a href="https://www.gitpod.io/">Gitpod to Deploy </a>
         - <a href="https://github.com/">Github to host </a>
-        - <a href="https://fontawesome.com/">Font Awesome for Social Icons</a>
         - <a href="https://fonts.google.com/">Google Fonts for the text</a>
+        - <a href="https://jshint.com/">Javascript errors</a>
       
       # Testing 
       ## Home Page
       - In this section I tested the code using <a href="https://validator.w3.org/nu/#textarea">WC3 Validator HTML</a>
-       <img src="./images/html-validator-READme-img.jpg" alt="home page validator">
+       <img src="./assets/images/html-validator.jpg" alt="home page validator">
       ## Timeline Page
       <img src="./images/timeline-validator-img.jpg" alt="timeline validator">
       
@@ -109,7 +109,7 @@ quiz.  </p>
 
           - I used Google Developer tool to test the responsiveness of the website.
           ## Lighthouse Test
-          <img src="./images/Lighthouse-test-img.jpg" alt="Lighthouse Test">
+          <img src="./assets/images/lighthouse.jpg" alt="Lighthouse Test">
           
           # Browser Test
 
