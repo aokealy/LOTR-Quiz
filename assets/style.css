@@ -169,6 +169,18 @@ body {
     display: inline-block;
     
 }
+/*for right answer*/
+.optionBox span.right {
+ background-color: #00ab00;
+ border-color: #00ab00;
+ color: #fff;
+}
+/*for wrong answer*/
+.optionBox span.wrong {
+    background-color: #ff3b0e;
+    border-color: #ff3b0e;
+    color: #fff;
+}
 /* Question Page CSS end */
 
 /* Media Queries start */

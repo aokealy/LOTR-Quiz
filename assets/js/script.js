@@ -57,7 +57,7 @@ function printQuestion(i) {
     attempt++;
     let optionClicked = $(option).data("opt");
 
-    console.log(questions[index]);
+   // console.log(questions[index]);
     if(optionClicked == questions[index].answer){
         $(option).addClass("right");
         score++;
@@ -66,6 +66,8 @@ function printQuestion(i) {
         $(option).addClass("wrong");
         wrong++;
     }
+
+    $(".scoreBox span").text(score);
 
  }
 // function to check answer end
