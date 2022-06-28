@@ -5,41 +5,48 @@ This Quiz is for the Lord Of The Rings fans who want to test their knowledge ove
 <br>
 This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger Federer</a>
 
-![alt text](./images/chrome_QTwBdTkGin.jpg)
+![alt text](/assets/images/chrome_97RvpcgHb3.jpg)
 
 # User Expierence 
-- When being a user I want to be able to navigate through the website smoothly.
-- When being a user I want to explore more of the Roger Federer site.
-- When being a user I want everyone to see the animations. 
-- When being a user I want to see how I can sign up.
-- When being a user I want to learn more about Federer.
+- When being a user I try to make the theme similar to Lord Of The Rings.
+- When being a user I want to see the rules.
+- When being a user I want to see the buttons easily. 
+- When being a user I want to see the extra features.
+- When being a user I want to play the game again.
 
 ## Site Structure 
-- The structure of the Roger Federer Website has three pages overall which include a home page, timeline page and a gallery page. 
-- There are social links at the bottom of each page. 
-- Every page has the same navigation bar and logo that will bring you back in the home page. 
+- The structure of the Quiz is a home screen where rules and play button are set. 
+- When clicking on the quiz there is a score on the top left and a timer on the top right.
+- At the bottom of the quiz there is a next button and show results button.
+- The show results page will give you the amount of correct and wrong answers.
+- There is also a try again button to start the quiz again.
+
 
 ## Typography
-- The font that were used in this website was Poppins.
-- Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre.
+- The font that were used in this Quiz was Lato.
+- Lato is perhaps the most unique and interesting sans-serif font on this list. It was designed by Łukasz Dziedzic and includes 10 styles. It goes from thin all the way to ultra-bold. The letters in Lato have some unique curves which can only be seen in larger sizes.
 ## Colour Choice
-- The colours I chose were different types of ed colours including darker and lighter reds and white.
-- The reason for this is because Roger Federer is from Swizterland and his flag colours are red and white.
-<img src="./images/Colours-README-img.jpg" alt="Color palette">
+- The colours I chose for this quiz were #d4af37 (Gold) to represent the One Ring.
+- The second colour I chose is #FF7700 (orange) to represent The fire of Mount Doom.
+- These colours make a good combination in relation to the movies.
+<img src="assets/images/gold.png" alt="Color palette">
+<img src="assets/images/orange.png" alt="Color palette">
+
 
 
 
 # Features 
-<p>Roger Federer website is designed to be user friendly and pleasing to the eye so when you first look at the website you can see where everthing is. It is very miminalistic but effective in a way that doesn't over complicate things. It has features that everyone has used before such as a navigation bar and a form to sign up.  </p>
+<p>This quiz has a few features to make it easy for the user to navigate easily and not get confused when going through the
+quiz.  </p>
 
 ## Existing Features 
 
-- __Navigation Bar__
-    - Navigation Bar is fully responsive where it has three pages and a logo. These items are located at the top of the page and are very easy to access to as you go to different pages on the website as it will keep the same continuity across all pages.
-     - The Logo is clickable which will bring you back to the home page if you cannot find your way back to the home page. 
-     - There is an animation on the Logo everytime you access a new page or refresh the page to help you locate where it is.
+- __Starter Page__
+    - The starter page has instructions telling you about what the quiz is about. 
+     - The Logo is eye appealing to the user. 
+     - There is an a button at the bottom that shows you how to start the quiz.
      
-     ![Navigation Bar ](./images/navigation-bar.jpg)
+     ![Start Button ](./assets/images/chrome_nHhEAfvHcT.jpg)
 
 
  - __Home Page Image__
