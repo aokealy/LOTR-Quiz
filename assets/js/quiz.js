@@ -102,4 +102,5 @@ let quiz = [
         ],
         answer: 1,
     },
+    
 ];

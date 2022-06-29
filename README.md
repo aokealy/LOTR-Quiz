@@ -20,6 +20,8 @@ This is the Website of <a href=" https://aokealy.github.io/LOTR-Quiz/">Lord Of T
 - At the bottom of the quiz there is a next button and show results button.
 - The show results page will give you the amount of correct and wrong answers.
 - There is also a try again button to start the quiz again.
+<img src="./assets/images/wireframe.jpg" alt="wireframe for main page">
+<img src="./assets/images/wireframe-quiz.jpg" alt="wireframe for main page">
 
 
 ## Typography
