@@ -2,8 +2,10 @@
 Lord Of The Rings Quiz is where you can test your knowledge to see how good you are.
 <br>
 This Quiz is for the Lord Of The Rings fans who want to test their knowledge overall.
+<a href="https://aokealy.github.io/LOTR-Quiz/">Link to Website</a>
 <br>
-This is the Website of <a href=" https://aokealy.github.io/LOTR-Quiz/">Lord Of The Rings Quiz</a>
+This is the Website of The Lord of The Rings
+
 
 ![alt text](/assets/images/chrome_97RvpcgHb3.jpg)
 
@@ -169,6 +171,7 @@ quiz.  </p>
         - This quiz is for Project Portfolio two for Code Institue and UCD Academy.
         -  For the Full Stack Software Developer (e-Commerce) Diploma
         
+         
          
 
 
